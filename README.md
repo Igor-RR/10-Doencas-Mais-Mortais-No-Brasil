@@ -15,3 +15,7 @@
   Para abrir o site, digite no terminal:
 
     streamlit run nome_do_arquivo.py
+
+  Substitua nome_do_arquivo pelo nome do código que você baixou (doencas_BRA é o nome do arquivo que está no repositório)
+
+
