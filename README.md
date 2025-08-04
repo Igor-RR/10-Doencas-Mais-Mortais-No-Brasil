@@ -12,3 +12,6 @@
     import streamlit as st
     import plotly.express as px
 
+  Para abrir o site, digite no terminal:
+
+    streamlit run nome_do_arquivo.py
