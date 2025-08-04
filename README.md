@@ -4,11 +4,11 @@ Obs: Para a execução deste script em seu computador, além de realizar o dowlo
 
 Com o venv ativado, baixe as bibliotecas utilizando:
 
-pip install pandas streamlit plotly
+  pip install pandas streamlit plotly
 
 Depois as importe no código:
 
-import pandas as pd
-import streamlit as st
-import plotly.express as px
+  import pandas as pd
+  import streamlit as st
+  import plotly.express as px
 
